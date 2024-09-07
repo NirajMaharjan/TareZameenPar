@@ -2,7 +2,7 @@
     "rewrites": [
       {
         "source": "/",
-        "destination": "/development/qr-code-component-main/index.html"
+        "destination": "/qr-code-component-main/index.html"
       }
     ]
   }
